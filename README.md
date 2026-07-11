@@ -2,8 +2,6 @@
 
 A modern, responsive landing page for a web-development bootcamp — built with React, Vite, and Tailwind CSS.
 
-**Live Website:** https://skillsphere-beta-ochre.vercel.app
-
 ## ✨ Features
 
 - Responsive design — works on mobile, tablet, and desktop
